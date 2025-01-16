@@ -1,5 +1,7 @@
 # gazebo_apriltag
 
+**For Gazebo harmonic use: https://github.com/rickarmstrong/gazebo_apriltag/tree/harmonic**
+
 <img src="ss.png" width="712pix" />
 
 Install models by running:
