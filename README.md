@@ -12,9 +12,6 @@ or
 ```shell
 export GZ_SIM_RESOURCE_PATH=$GZ_SIM_RESOURCE_PATH:/path/to/models
 ```
-
-Or, add the full path to `gazebo_apriltag/models/` to the `GAZEBO_MODEL_PATH` environment variable.
-
 Generate additional tag models:
 ```bash
 # Edit the following lines in generate.py to create tag models you want
